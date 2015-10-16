@@ -1,4 +1,3 @@
-
 INSERT INTO users VALUES (1,'mileycyrus','password');
 INSERT INTO users VALUES (2,'taylorswift','password');
 INSERT INTO users VALUES (3,'jonbonjovi','password');
@@ -57,18 +56,6 @@ INSERT INTO user_rooms VALUES (46,7,6);
 INSERT INTO user_rooms VALUES (47,8,6);
 INSERT INTO user_rooms VALUES (48,9,6);
 INSERT INTO user_rooms VALUES (49,10,6);
-INSERT INTO schema_migrations VALUES ('20151015023540');
-INSERT INTO schema_migrations VALUES ('20151015024227');
-INSERT INTO schema_migrations VALUES ('20151015025001');
-INSERT INTO schema_migrations VALUES ('20151015025445');
-INSERT INTO schema_migrations VALUES ('20151015025720');
-INSERT INTO schema_migrations VALUES ('20151015025735');
-INSERT INTO schema_migrations VALUES ('20151015050053');
-INSERT INTO schema_migrations VALUES ('20151015070427');
-INSERT INTO schema_migrations VALUES ('20151015080849');
-INSERT INTO schema_migrations VALUES ('20151015112452');
-INSERT INTO schema_migrations VALUES ('20151015112639');
-INSERT INTO schema_migrations VALUES ('20151015112651');
 INSERT INTO rooms VALUES (1,'Pluto','Everyone is in this chat room');
 INSERT INTO rooms VALUES (2,'Saturn','Women are in this chat room');
 INSERT INTO rooms VALUES (3,'Mars','Rappers are in this chat room');
