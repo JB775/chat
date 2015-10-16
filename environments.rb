@@ -4,7 +4,7 @@ set :database, "sqlite3:database.sqlite3"
 end
 
 configure :production do
- ActiveRecord::Base.establish_connection('postgres://xqatqaaqpsmxby:imbdtwQw5eWgtZcSFY0myJch5C@ec2-54-204-15-48.compute-1.amazonaws.com:5432/d34hh5q9m0com2')
+ ActiveRecord::Base.establish_connection('postgres://ilfhfpmxbgqplu:g3tNJwxpHcIJPC44pKA_JLjD33@ec2-46-137-159-123.eu-west-1.compute.amazonaws.com:5432/dcf0ton7843608')
   set :show_exceptions, true
 end
 
